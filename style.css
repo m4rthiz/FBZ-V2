@@ -1,0 +1,65 @@
+
+html {
+    background-color: #686464;
+    color: white;
+}
+body{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 1.2em;
+    color: #000;
+}
+
+
+.contenu{
+    background-color: #ededed;
+    padding:80px 100px;
+}
+
+.uk-article-title, h2{
+    font-family: 'Lakki Reddy', cursive;
+    text-align: center;
+}
+.uk-text-lead{
+    font-size: 1.2em;
+}
+
+.uk-article-meta{
+    text-align: center;
+}
+
+.uk-cover-container{
+    height:250px;
+}
+
+.uk-overflow-hidden{
+    margin: 5px auto ;
+    width:60%;
+    box-shadow: -10px 10px 5px rgba(0, 0, 0, 0.72);
+
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent){
+    background-color: rgb(48, 48, 48);
+
+}
+
+.uk-navbar-nav > li > a{
+    font-family: 'Lakki Reddy', cursive;
+    color: #7FE664;
+    font-size: 1.2em;
+}
+
+
+.uk-navbar-dropdown-nav > li > a {
+    color: #7FE664;
+    font-family: 'Lakki Reddy', cursive;
+    font-size: 1.2em;
+}
+
+.uk-navbar-dropdown{
+    background-color: #303030;
+}
+
+.uk-navbar-item img {
+    max-height: 60px;
+}

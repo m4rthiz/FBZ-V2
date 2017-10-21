@@ -21,7 +21,7 @@
 <section class=" contenu">
     <article class="uk-article">
 
-        <h1 class="uk-article-title">Les Bals</h1>
+        <h1 class="uk-article-title">Les danses traditionelles</h1>
         <!--p class="uk-article-meta">Written by <a href="#">Super User</a> on 12 April 2012. Posted in <a href="#">Blog</a></p-->
 
         <p class="uk-text-lead">Les Arts du Cirque mèlent des compétences sportives et artistiques où s'alternent

@@ -9,21 +9,21 @@
             <ul class="uk-navbar-nav">
                 <li class="uk-active"><a href="#">Active</a></li>
                 <li>
-                    <a href="#"> Ateliers</a>
+                    <a href="#">Enseignement</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="cirque.php">Art du cirque</a></li>
-                            <li><a href="musique.php">Musique</a></li>
-                            <li><a href="bal.php">Bal Folk</a></li>
+                            <li><a href="atCirque.php">Art du cirque</a></li>
+                            <li><a href="atMusique.php">Musique</a></li>
+                            <li><a href="atBal.php">Danses traditionelles</a></li>
                         </ul>
                     </div>
                 </li>
                 <li>
-                    <a href="#">Scene</a>
+                    <a href="#">Scène</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="#">Bals Folk</a></li>
-                            <li><a href="#">Spectacles</a></li>
+                            <li><a href="scBal.php">Bals Folk</a></li>
+                            <li><a href="scSpectacles.php">Spectacles</a></li>
                         </ul>
                     </div>
                 </li>
@@ -31,8 +31,8 @@
                     <a href="#">Association</a>
                     <div class="uk-navbar-dropdown">
                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                            <li><a href="#">Equipe</a></li>
-                            <li><a href="#">Projet</a></li>
+                            <li><a href="equipe.php">Equipe</a></li>
+                            <li><a href="projet.php">Projet</a></li>
                         </ul>
                     </div>
                 </li>

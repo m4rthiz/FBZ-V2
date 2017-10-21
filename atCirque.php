@@ -29,7 +29,7 @@
     </p>
         <div class="uk-card uk-card-default uk-card-body ">
             <h2>La technique</h2>
-            <p ">
+            <p>
                 Nous nous déplaçons dans votre structure avec tout le matériel
                 spécifique à la pratique des Arts du Cirque.
             </p>

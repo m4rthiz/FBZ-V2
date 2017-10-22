@@ -64,8 +64,6 @@
             Et bien d'autres encore en fonction des envies !
         </div>
 
-
-
     <p class="uk-article-meta">"Les Arts du Cirque mèlent des compétences sportives et artistiques où
         s'alternent travail individuel et travail collectif."</p>
     <!--div class="uk-grid-small uk-child-width-auto" uk-grid>
@@ -78,6 +76,9 @@
     </-div-->
     </article>
 </section>
+<footer>
+    <?php include 'footer.php' ?>
+</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit.min.js"></script>

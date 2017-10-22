@@ -21,36 +21,24 @@
 <section class=" contenu">
     <article class="uk-article">
 
-        <h1 class="uk-article-title">l'equipe</h1>
+        <h1 class="uk-article-title">l'équipe</h1>
         <!--p class="uk-article-meta">Written by <a href="#">Super User</a> on 12 April 2012. Posted in <a href="#">Blog</a></p-->
 
-        <p class="uk-text-lead">Les Arts du Cirque mèlent des compétences sportives et artistiques où s'alternent
-            travail individuel et travail collectif.
-        </p>
-
-        <p>Pour la musique :
-            Perrine SAUVAGE qui possède le "DUMI" (Diplôme Universitaire de Musicien Intervenant).</br>
-            </br>
-
-            Pour le cirque :
-            Marie THIZY qui possède le "BIAC" (Brevet d'initiateur aux Art du Cirque) et le "BPJEPS art du cirque".</br>
-            </br>
-
-            Pour le bon déroulement administratif :
+        <div class="uk-card uk-card-default uk-card-body ">
+<h2>Pour la musique :</h2>
+            Perrine SAUVAGE qui possède le "DUMI" (Diplôme Universitaire de Musicien Intervenant)
+            <h2> Pour le cirque :</h2>
+            Marie THIZY qui possède le "BIAC" (Brevet d'initiateur aux Art du Cirque) et le "BPJEPS art du cirque".
+            <h2>Pour le bon déroulement administratif :</h2>
             Camille, Jacques et Jocelyn qui signent les papiers, font les factures, collent les timbres !
-        </p>
-        <p class="uk-article-meta">"Les Arts du Cirque mèlent des compétences sportives et artistiques où
-            s'alternent travail individuel et travail collectif."</p>
-        <!--div class="uk-grid-small uk-child-width-auto" uk-grid>
-            <div>
-                <a class="uk-button uk-button-text" href="#">Read more</a>
-            </div>
-            <div>
-                <a class="uk-button uk-button-text" href="#">5 Comments</a>
-            </div>
-        </-div-->
+
+        </div>
+
     </article>
 </section>
+<footer>
+    <?php include 'footer.php' ?>
+</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit.min.js"></script>

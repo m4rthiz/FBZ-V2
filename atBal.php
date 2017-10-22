@@ -13,6 +13,7 @@
 <body class="uk-container-large">
 <header>
     <div class="uk-cover-container">
+        <canvas width="400" height="200"></canvas>
         <img src="img/banniereLongue.png" alt="banniere avec logo" uk-cover>
     </div>
     <?php include 'nav.php' ?>
@@ -64,6 +65,9 @@
         </div>
     </article>
 </section>
+<footer>
+    <?php include 'footer.php' ?>
+</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit.min.js"></script>

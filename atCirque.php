@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello Ulkit!</title>
+    <title>Arts du cirque - Cie Foulbaz'Art</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/css/uikit.min.css"/>
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans|Raleway|Lakki+Reddy" rel="stylesheet">
@@ -29,7 +29,7 @@
     </p>
         <div class="uk-card uk-card-default uk-card-body ">
             <h2>La technique</h2>
-            <p ">
+            <p>
                 Nous nous déplaçons dans votre structure avec tout le matériel
                 spécifique à la pratique des Arts du Cirque.
             </p>
@@ -64,8 +64,6 @@
             Et bien d'autres encore en fonction des envies !
         </div>
 
-
-
     <p class="uk-article-meta">"Les Arts du Cirque mèlent des compétences sportives et artistiques où
         s'alternent travail individuel et travail collectif."</p>
     <!--div class="uk-grid-small uk-child-width-auto" uk-grid>
@@ -78,6 +76,9 @@
     </-div-->
     </article>
 </section>
+<footer>
+    <?php include 'footer.php' ?>
+</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit.min.js"></script>

@@ -1,8 +1,8 @@
-<div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
+<div uk-sticky="sel-target: uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
     <nav class="uk-navbar-container uk-background-default" uk-navbar>
 
         <div class="uk-navbar-left">
-            <a class="uk-navbar-item uk-logo" href="img/logoRondTrans.png"><img src="img/logoRondTrans.png"
+            <a class="uk-navbar-item uk-logo" href="index.php"><img src="img/logoRondTrans.png"
                                                                                 alt="logo compagnie"></a>
         </div>
         <div class="uk-navbar-right">
@@ -36,7 +36,7 @@
                         </ul>
                     </div>
                 </li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
 
         </div>

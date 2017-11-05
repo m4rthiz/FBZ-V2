@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello Ulkit!</title>
+    <title>Contact - Cie Foulbaz'Art</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/css/uikit.min.css"/>
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans|Raleway|Lakki+Reddy" rel="stylesheet">
@@ -21,34 +21,29 @@
 <section class=" contenu">
     <article class="uk-article">
 
-        <h1 class="uk-article-title">contact</h1>
-        <!--p class="uk-article-meta">Written by <a href="#">Super User</a> on 12 April 2012. Posted in <a href="#">Blog</a></p-->
-
-        <p class="uk-text-lead">Les Arts du Cirque mèlent des compétences sportives et artistiques où s'alternent
-            travail individuel et travail collectif.
-        </p>
-
-        <h3> Par courrier :</h3>
-        <p>Compagnie Foulbaz'Art<br />
-            La Petite Fayolle <br />
-            42320 St Christo en Jarez</p>
-        <h3>Par téléphone:</h3>
-        <p> 06 42 72 41 51 </p>
-        <h3>Par mail:</h3>
-        <p> contact@foulbazart.org </p>
-
-        <p class="uk-article-meta">"Les Arts du Cirque mèlent des compétences sportives et artistiques où
-            s'alternent travail individuel et travail collectif."</p>
-        <!--div class="uk-grid-small uk-child-width-auto" uk-grid>
-            <div>
-                <a class="uk-button uk-button-text" href="#">Read more</a>
+        <h1 class="uk-article-title">Contactez-nous :</h1>
+        <div class="uk-flex uk-flex-center">
+            <div class="uk-card uk-card-default uk-card-body">
+                <h2> Par courrier :</h2>
+                <p>Compagnie Foulbaz'Art<br/>
+                    La Petite Fayolle <br/>
+                    42320 St Christo en Jarez</p>
             </div>
-            <div>
-                <a class="uk-button uk-button-text" href="#">5 Comments</a>
+            <div class="uk-card uk-card-default uk-card-body uk-margin-left">
+
+                <h2>Par téléphone:</h2>
+                <p> Tel : 06 42 72 41 51 </p>
             </div>
-        </-div-->
+            <div class="uk-card uk-card-default uk-card-body uk-margin-left">
+                <h2>Par mail:</h2>
+                <p> contact@foulbazart.org </p>
+            </div>
+        </div>
     </article>
 </section>
+<footer>
+    <?php include 'footer.php' ?>
+</footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit.min.js"></script>
